@@ -7,6 +7,37 @@ import {
   Text,
   View,
 } from 'react-native';
+import Tags from './src/components/Tags';
+
+const TAGS = [
+  '#love',
+  '#instagood',
+  '#photooftheday',
+  '#beautiful',
+  '#fashion',
+  '#happy',
+  '#tbt',
+  '#cute',
+  '#followme',
+  '#like4like',
+  '#follow',
+  '#followme',
+  '#picoftheday',
+  '#me',
+  '#selfie',
+  '#summer',
+  '#instadaily',
+  '#photooftheday',
+  '#friends',
+  '#girl',
+  '#fun',
+  '#style',
+  '#instalike',
+  '#food',
+  '#family',
+  '#tagsforlikes',
+  '#igers',
+];
 
 export default class Main extends PureComponent {
 
@@ -23,6 +54,11 @@ export default class Main extends PureComponent {
             Drag and drop tags to reorder, tap to remove or press Add New to add new tags.
           </Text>
         </View>
+
+        <Tags
+          tags={TAGS}
+          onPressAddNewTag={() => {}} // do nothing for now
+        />
 
       </View>
     );
