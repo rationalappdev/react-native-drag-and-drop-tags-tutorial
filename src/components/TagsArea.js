@@ -67,6 +67,7 @@ const styles = {
     paddingTop: 15,
   },
   add: {
+    backgroundColor: 'transparent',
     color: '#FFFFFF',
     paddingHorizontal: 5,
     paddingVertical: 5,
