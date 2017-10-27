@@ -82,7 +82,6 @@ const styles = StyleSheet.create({
   },
   text: {
     color: '#FFFFFF',
-    fontFamily: 'Avenir',
     fontSize: 16,
     textAlign: 'center',
   },

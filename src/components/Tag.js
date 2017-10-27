@@ -93,7 +93,6 @@ const styles = {
   },
   title: {
     color: '#FFFFFF',
-    fontFamily: 'Avenir',
     fontSize: 15,
     fontWeight: 'normal',
   },
