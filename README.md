@@ -5,7 +5,7 @@ Learn how to reorder tags, using animated drag and drop, remove them and add new
 ## Blog Tutorial Series
 
 - [Part 1 of 2: The Basics and Removing the Tags](http://rationalappdev.com/drag-and-drop-tags-in-react-native-part-1-of-2)
-- Part 2 of 2: Reordering and Adding New Tags (pending)
+- [Part 2 of 2: Reordering and Adding New Tags](http://rationalappdev.com/drag-and-drop-tags-in-react-native-part-2-of-2)
 
 ## Demo
 
