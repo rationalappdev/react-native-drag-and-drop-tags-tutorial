@@ -5,7 +5,7 @@
   "devDependencies": {
     "flow-bin": "^0.49.1",
     "jest-expo": "^21.0.2",
-    "react-native-scripts": "1.5.0",
+    "react-native-scripts": "2.0.1",
     "react-test-renderer": "16.0.0-alpha.12"
   },
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
@@ -23,7 +23,7 @@
   "dependencies": {
     "expo": "^21.0.0",
     "react": "16.0.0-alpha.12",
-    "react-native": "^0.48.4",
+    "react-native": "^0.70.2",
     "react-native-vector-icons": "^4.4.2"
   }
 }
